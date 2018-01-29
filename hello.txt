@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hi Tamoor this is Pritesh
 
 
@@ -7,3 +8,6 @@ Hi Pritesh i made few more changes and pushed it in Tamoor Branch
 
 I just made changes to My On Branch: PRITESH
 
+=======
+Hi Tamoor this is Pritesh
+>>>>>>> parent of bf60cc3... I just made changes to hello.txt
