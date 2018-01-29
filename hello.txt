@@ -1,4 +1,5 @@
 Hi Tamoor this is Pritesh
+<<<<<<< HEAD
 
 
 Hi its Tamoor here
@@ -7,3 +8,5 @@ Hi Pritesh i made few more changes and pushed it in Tamoor Branch
 
 I just made changes to My On Branch: PRITESH
 
+=======
+>>>>>>> parent of 1f0d167... I updated to Pritesh
